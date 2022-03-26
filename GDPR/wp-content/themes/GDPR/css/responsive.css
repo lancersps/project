@@ -1,0 +1,86 @@
+@media (max-width: 768px){
+  .content {
+	padding: 40% 0 0;
+	}
+}
+
+@media (max-width: 603px){
+#tf-menu.navbar-default {
+	background-color: rgba(0, 0, 0, 0.79);
+	}
+#tf-works li.pull-right, #tf-works li.pull-left {
+    margin-top: 10px;
+    float: none !important;
+    text-align: center;
+    display: block;
+}
+label{
+    float: none !important
+}
+.pull-left.fnav,
+.pull-right.fnav {
+    float: none !important;
+    text-align: center;
+}
+
+.hover-bg .hover-text {
+    padding: 12% 10%;
+}
+}
+@media (max-width: 360px){
+.hover-bg .hover-text {
+    padding: 22% 10%;
+}
+
+
+
+
+.banner2 .vc_col-sm-4{
+    position: absolute!important;
+    top: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%); -ms-transform: translateX(-50%); transform: translateX(-50%)
+    
+}
+.banner2 .vc_col-sm-4 img{
+    height: 80px!important;
+    width: auto;
+}
+.banner2  .vc_col-sm-8{
+    width: 100%;
+    padding-top: 95px;
+    text-align: center;
+}
+
+/* ------------------------Count responsive BEGIN------------------------ */
+#ujiCountdown span.countdown_row .countdown_amount{
+    font-size: 14px!important;
+}
+#ujiCountdown .countdown_txt{
+    font-size: 10px !important
+}
+
+#ujiCountdown >.countdown_show4>.countdown_section{
+    width: 25%!important;
+    padding: 2px!important;
+}
+
+#ujiCountdown >.countdown_show4>.uji_sec>.countdown_section{
+    width: 25%!important;
+    padding: 2px!important;
+}
+#ujiCountdown .countdown_amount{
+    min-width: 20px!important;
+   
+    
+}
+
+#ujiCountdown >.countdown_row{
+    width: 100%;
+    margin: 0 auto;
+}
+.ujic-classic .countdown_section{
+    margin: 0!important;
+}
+/* ------------------------Count responsive END------------------------ */
+}

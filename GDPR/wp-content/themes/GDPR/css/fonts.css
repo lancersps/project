@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,700);
+@import url(http://fonts.googleapis.com/css?family=Lato:300,700);
+
+	@font-face {
+			font-family: "Magistral";
+			src: url("../fonts/Magistral/Magistral.otf");
+			src: url("../fonts/Magistral/Magistral.otf?#iefix")format("embedded-opentype"),
+			url("../fonts/Magistral/Magistral.woff") format("woff"),
+			url("../fonts/Magistral/Magistral.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+
