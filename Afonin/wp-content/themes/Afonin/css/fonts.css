@@ -1,0 +1,41 @@
+/*TTFirs-ExtraBold*/
+@font-face {
+    font-family: "TTFirs-ExtraBold";
+    src: url("../fonts/TTFirs-ExtraBold/TTFirs-ExtraBold.eot");
+    src: url("../fonts/TTFirs-ExtraBold/TTFirs-ExtraBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTFirs-ExtraBold/TTFirs-ExtraBold.woff") format("woff"),
+    url("../fonts/TTFirs-ExtraBold/TTFirs-ExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/*TTFirs-ExtraBoldItalic*/
+@font-face {
+    font-family: "TTFirs-ExtraBoldItalic";
+    src: url("../fonts/TTFirs-ExtraBoldItalic/TTFirs-ExtraBoldItalic.eot");
+    src: url("../fonts/TTFirs-ExtraBoldItalic/TTFirs-ExtraBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTFirs-ExtraBoldItalic/TTFirs-ExtraBoldItalic.woff") format("woff"),
+    url("../fonts/TTFirs-ExtraBoldItalic/TTFirs-ExtraBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/*TTFirs-Medium*/
+@font-face {
+    font-family: "TTFirs-Medium";
+    src: url("../fonts/TTFirs-Medium/TTFirs-Medium.eot");
+    src: url("../fonts/TTFirs-Medium/TTFirs-Medium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTFirs-Medium/TTFirs-Medium.woff") format("woff"),
+    url("../fonts/TTFirs-Medium/TTFirs-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/*TTFirs-MediumItalic*/
+@font-face {
+    font-family: "TTFirs-MediumItalic";
+    src: url("../fonts/TTFirs-MediumItalic/TTFirs-MediumItalic.eot");
+    src: url("../fonts/TTFirs-MediumItalic/TTFirs-MediumItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/TTFirs-MediumItalic/TTFirs-MediumItalic.woff") format("woff"),
+    url("../fonts/TTFirs-MediumItalic/TTFirs-MediumItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
